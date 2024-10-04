@@ -1,7 +1,7 @@
 # 💻 Chatbot
 
 ## 🌸 Resumo do projeto
-O projeto de chatbot tem como objetivo facilitar a interação entre humanos e computadores, permitindo que os usuários respondam perguntas de forma simples e intuitiva para escolher o melhor notebook ou computador. A proposta é criar uma interface acessível, onde a comunicação ocorre de maneira natural, tornando a experiência do usuário mais fluida e eficien
+O projeto de chatbot tem como objetivo facilitar a interação entre humanos e computadores, permitindo que os usuários respondam perguntas de forma simples e intuitiva para escolher o melhor notebook ou computador. A proposta é criar uma interface acessível, onde a comunicação ocorre de maneira natural, tornando a experiência do usuário mais fluida e eficiente
 
 ## 🌷 Funcionalidades
 - **Coleta de Informações**: O bot coleta preferências do usuário e organiza as respostas de forma inteligente.
